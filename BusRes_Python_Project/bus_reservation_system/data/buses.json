@@ -1,0 +1,85 @@
+[
+  {
+    "bus_id": "BUSVLV001",
+    "bus_number": "TN01AB1234",
+    "bus_name": "Sri Murugan Volvo AC",
+    "bus_type": "AC Sleeper",
+    "total_seats": 40,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "USB Charging",
+      "Blanket",
+      "Reading Light"
+    ],
+    "is_active": true,
+    "operator_name": "Sri Murugan Travels",
+    "rating": 0.0,
+    "total_ratings": 0
+  },
+  {
+    "bus_id": "BUSSEM001",
+    "bus_number": "TN02CD5678",
+    "bus_name": "Parvathi Semi-Sleeper",
+    "bus_type": "AC Semi-Sleeper",
+    "total_seats": 45,
+    "amenities": [
+      "AC",
+      "USB Charging",
+      "Entertainment System"
+    ],
+    "is_active": true,
+    "operator_name": "Parvathi Travels",
+    "rating": 0.0,
+    "total_ratings": 0
+  },
+  {
+    "bus_id": "BUSNAC001",
+    "bus_number": "KA03EF9012",
+    "bus_name": "Karnataka Express",
+    "bus_type": "Non-AC Seater",
+    "total_seats": 50,
+    "amenities": [
+      "Fan",
+      "Drinking Water"
+    ],
+    "is_active": true,
+    "operator_name": "KSR Travels",
+    "rating": 0.0,
+    "total_ratings": 0
+  },
+  {
+    "bus_id": "BUSLUX001",
+    "bus_number": "MH04GH3456",
+    "bus_name": "Mumbai Luxury Liner",
+    "bus_type": "Luxury",
+    "total_seats": 30,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Mini Bar",
+      "Recliner Seats",
+      "Live TV"
+    ],
+    "is_active": true,
+    "operator_name": "Premium Rides Pvt Ltd",
+    "rating": 0.0,
+    "total_ratings": 0
+  },
+  {
+    "bus_id": "BUSSLP001",
+    "bus_number": "AP05IJ7890",
+    "bus_name": "Coastal Non-AC Sleeper",
+    "bus_type": "Non-AC Sleeper",
+    "total_seats": 36,
+    "amenities": [
+      "Fan",
+      "Curtains",
+      "Drinking Water"
+    ],
+    "is_active": true,
+    "operator_name": "Coastal Transport",
+    "rating": 0.0,
+    "total_ratings": 0
+  }
+]

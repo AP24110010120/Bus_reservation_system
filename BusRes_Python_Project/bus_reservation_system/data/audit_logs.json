@@ -1,0 +1,44 @@
+[
+  {
+    "log_id": "LOGD21D9564F3",
+    "admin_id": "ADM14CC54C22C",
+    "action": "LOGIN",
+    "details": "Admin 'admin' logged in.",
+    "timestamp": "2026-04-07 01:36:40"
+  },
+  {
+    "log_id": "LOGF01457097C",
+    "admin_id": "ADM14CC54C22C",
+    "action": "LOGOUT",
+    "details": "Admin 'admin' logged out.",
+    "timestamp": "2026-04-07 01:36:40"
+  },
+  {
+    "log_id": "LOG1B503ED5C2",
+    "admin_id": "ADM14CC54C22C",
+    "action": "LOGIN",
+    "details": "Admin 'admin' logged in.",
+    "timestamp": "2026-04-07 01:36:53"
+  },
+  {
+    "log_id": "LOGC78116DAC7",
+    "admin_id": "ADM14CC54C22C",
+    "action": "LOGOUT",
+    "details": "Admin 'admin' logged out.",
+    "timestamp": "2026-04-07 01:36:53"
+  },
+  {
+    "log_id": "LOGE6DF0DDC4F",
+    "admin_id": "ADM14CC54C22C",
+    "action": "LOGIN",
+    "details": "Admin 'admin' logged in.",
+    "timestamp": "2026-04-07 01:37:04"
+  },
+  {
+    "log_id": "LOGE66BAC608C",
+    "admin_id": "ADM14CC54C22C",
+    "action": "LOGOUT",
+    "details": "Admin 'admin' logged out.",
+    "timestamp": "2026-04-07 01:37:04"
+  }
+]

@@ -1,0 +1,2336 @@
+[
+  {
+    "schedule_id": "SCH82903CC5EE",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-06",
+    "departure_time": "21:00",
+    "arrival_time": "03:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "17",
+      "30",
+      "23",
+      "36",
+      "18",
+      "34",
+      "40"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH4ED0A7C9E1",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-06",
+    "departure_time": "22:30",
+    "arrival_time": "04:30",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "4",
+      "6",
+      "43",
+      "41",
+      "29",
+      "3",
+      "39",
+      "17"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH51AB37235D",
+    "bus_id": "BUSSLP001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-06",
+    "departure_time": "23:00",
+    "arrival_time": "05:00",
+    "fare_multiplier": 0.8,
+    "booked_seats": [
+      "16",
+      "33",
+      "31"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH815F29A014",
+    "bus_id": "BUSLUX001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-06",
+    "departure_time": "18:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 1.5,
+    "booked_seats": [
+      "24",
+      "15",
+      "5",
+      "9",
+      "13",
+      "30",
+      "17",
+      "25"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH6C7A122CC3",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-06",
+    "departure_time": "20:00",
+    "arrival_time": "20:00",
+    "fare_multiplier": 1.2,
+    "booked_seats": [
+      "8",
+      "4",
+      "27",
+      "15",
+      "28",
+      "39",
+      "38",
+      "37",
+      "3",
+      "34"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH4C919DD730",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-06",
+    "departure_time": "19:00",
+    "arrival_time": "04:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "43",
+      "31",
+      "9",
+      "37",
+      "24",
+      "34",
+      "30",
+      "27",
+      "22",
+      "5",
+      "41",
+      "10",
+      "36",
+      "16"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCHBAEDFD95F2",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-06",
+    "departure_time": "21:00",
+    "arrival_time": "06:00",
+    "fare_multiplier": 0.7,
+    "booked_seats": [
+      "50",
+      "38",
+      "16"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCHF852B8103C",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-06",
+    "departure_time": "08:00",
+    "arrival_time": "17:30",
+    "fare_multiplier": 1.0,
+    "booked_seats": [],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHFB821664F0",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-06",
+    "departure_time": "22:00",
+    "arrival_time": "07:30",
+    "fare_multiplier": 1.1,
+    "booked_seats": [
+      "28",
+      "4",
+      "1",
+      "39",
+      "18",
+      "36",
+      "19"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH345EDC433B",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-06",
+    "departure_time": "07:00",
+    "arrival_time": "10:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "20",
+      "45",
+      "35",
+      "21",
+      "25"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCH1010AC4CFF",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-06",
+    "departure_time": "15:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "20",
+      "11",
+      "24",
+      "39",
+      "4",
+      "6",
+      "2",
+      "8"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCHAE0865C9BC",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-07",
+    "departure_time": "21:00",
+    "arrival_time": "03:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "26",
+      "29",
+      "5",
+      "6",
+      "7",
+      "35",
+      "34",
+      "20",
+      "23",
+      "37",
+      "31",
+      "33",
+      "13"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH5E06F2D7FB",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-07",
+    "departure_time": "22:30",
+    "arrival_time": "04:30",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "11",
+      "8",
+      "14",
+      "28",
+      "29"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH3927A18BF4",
+    "bus_id": "BUSSLP001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-07",
+    "departure_time": "23:00",
+    "arrival_time": "05:00",
+    "fare_multiplier": 0.8,
+    "booked_seats": [],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH25A3D168AC",
+    "bus_id": "BUSLUX001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-07",
+    "departure_time": "18:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 1.5,
+    "booked_seats": [
+      "10",
+      "22",
+      "18",
+      "16"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH47BC497E09",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-07",
+    "departure_time": "20:00",
+    "arrival_time": "20:00",
+    "fare_multiplier": 1.2,
+    "booked_seats": [
+      "15",
+      "12",
+      "17",
+      "28",
+      "20",
+      "3",
+      "33",
+      "21",
+      "35"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH2F2B473A79",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-07",
+    "departure_time": "19:00",
+    "arrival_time": "04:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "32",
+      "22",
+      "42"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCHC82D52C080",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-07",
+    "departure_time": "21:00",
+    "arrival_time": "06:00",
+    "fare_multiplier": 0.7,
+    "booked_seats": [
+      "7",
+      "29",
+      "45",
+      "41",
+      "26",
+      "35",
+      "46",
+      "5",
+      "48"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCHEABC2DD62C",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-07",
+    "departure_time": "08:00",
+    "arrival_time": "17:30",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "23",
+      "10",
+      "15",
+      "36",
+      "12",
+      "30"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH153C657256",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-07",
+    "departure_time": "22:00",
+    "arrival_time": "07:30",
+    "fare_multiplier": 1.1,
+    "booked_seats": [
+      "28",
+      "21",
+      "40",
+      "36",
+      "6",
+      "29",
+      "9",
+      "16",
+      "37",
+      "32",
+      "14"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH47AB020B2B",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-07",
+    "departure_time": "07:00",
+    "arrival_time": "10:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCHF9D94D6E87",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-07",
+    "departure_time": "15:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "10",
+      "35",
+      "14",
+      "42"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCHF0C333AED9",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-08",
+    "departure_time": "21:00",
+    "arrival_time": "03:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "35",
+      "37",
+      "25",
+      "1",
+      "31",
+      "26",
+      "21",
+      "13",
+      "18",
+      "7"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH0422F99962",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-08",
+    "departure_time": "22:30",
+    "arrival_time": "04:30",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "20",
+      "36",
+      "45"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH3653DAD1E4",
+    "bus_id": "BUSSLP001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-08",
+    "departure_time": "23:00",
+    "arrival_time": "05:00",
+    "fare_multiplier": 0.8,
+    "booked_seats": [],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHACA218FEE8",
+    "bus_id": "BUSLUX001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-08",
+    "departure_time": "18:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 1.5,
+    "booked_seats": [
+      "4",
+      "27",
+      "30",
+      "9"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH50E5610BA7",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-08",
+    "departure_time": "20:00",
+    "arrival_time": "20:00",
+    "fare_multiplier": 1.2,
+    "booked_seats": [
+      "4",
+      "35",
+      "26",
+      "33",
+      "2",
+      "37",
+      "22",
+      "11",
+      "5",
+      "12",
+      "15"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH0948C51EFA",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-08",
+    "departure_time": "19:00",
+    "arrival_time": "04:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "25",
+      "6",
+      "16",
+      "20",
+      "26"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCH6D358D47FA",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-08",
+    "departure_time": "21:00",
+    "arrival_time": "06:00",
+    "fare_multiplier": 0.7,
+    "booked_seats": [
+      "43",
+      "41",
+      "17",
+      "2",
+      "15",
+      "47",
+      "11",
+      "32",
+      "19",
+      "44",
+      "38",
+      "14",
+      "12",
+      "8"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCH0D5C56A24D",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-08",
+    "departure_time": "08:00",
+    "arrival_time": "17:30",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "25",
+      "49",
+      "47",
+      "7",
+      "19"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH606C991F8D",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-08",
+    "departure_time": "22:00",
+    "arrival_time": "07:30",
+    "fare_multiplier": 1.1,
+    "booked_seats": [
+      "1",
+      "18",
+      "2",
+      "14",
+      "22"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH4C9BF84C15",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-08",
+    "departure_time": "07:00",
+    "arrival_time": "10:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "35",
+      "34",
+      "9",
+      "21",
+      "44",
+      "23",
+      "42",
+      "15",
+      "29",
+      "3",
+      "19",
+      "1",
+      "17"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCHE350323600",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-08",
+    "departure_time": "15:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "21",
+      "1",
+      "27",
+      "20",
+      "10"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCHFFB3FC5577",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-09",
+    "departure_time": "21:00",
+    "arrival_time": "03:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "15",
+      "37",
+      "36",
+      "24",
+      "1",
+      "10",
+      "11",
+      "18",
+      "4",
+      "3"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH752ACF36BB",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-09",
+    "departure_time": "22:30",
+    "arrival_time": "04:30",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "5",
+      "15",
+      "13",
+      "32",
+      "10",
+      "11",
+      "27",
+      "20",
+      "2",
+      "18",
+      "38",
+      "23"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH6A2996A718",
+    "bus_id": "BUSSLP001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-09",
+    "departure_time": "23:00",
+    "arrival_time": "05:00",
+    "fare_multiplier": 0.8,
+    "booked_seats": [
+      "19",
+      "20"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHF794215F2C",
+    "bus_id": "BUSLUX001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-09",
+    "departure_time": "18:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 1.5,
+    "booked_seats": [
+      "4",
+      "18"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH1D0AB41A9C",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-09",
+    "departure_time": "20:00",
+    "arrival_time": "20:00",
+    "fare_multiplier": 1.2,
+    "booked_seats": [
+      "28",
+      "34",
+      "4",
+      "32",
+      "10",
+      "33",
+      "40",
+      "27",
+      "23",
+      "13"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH578CF1016B",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-09",
+    "departure_time": "19:00",
+    "arrival_time": "04:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "8",
+      "10",
+      "31",
+      "2",
+      "18",
+      "24",
+      "5"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCH6B60FEC923",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-09",
+    "departure_time": "21:00",
+    "arrival_time": "06:00",
+    "fare_multiplier": 0.7,
+    "booked_seats": [
+      "35",
+      "11",
+      "28",
+      "7",
+      "15",
+      "1",
+      "31",
+      "39"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCH6D8AE666A5",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-09",
+    "departure_time": "08:00",
+    "arrival_time": "17:30",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "1",
+      "16",
+      "50",
+      "2",
+      "19",
+      "41",
+      "15",
+      "38",
+      "14",
+      "17",
+      "23",
+      "3"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH38054729FC",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-09",
+    "departure_time": "22:00",
+    "arrival_time": "07:30",
+    "fare_multiplier": 1.1,
+    "booked_seats": [],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH67EB2DB872",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-09",
+    "departure_time": "07:00",
+    "arrival_time": "10:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "45",
+      "37",
+      "28",
+      "5",
+      "8",
+      "2",
+      "42",
+      "23",
+      "33",
+      "7",
+      "30",
+      "15",
+      "4",
+      "12"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCH7AAE60927E",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-09",
+    "departure_time": "15:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "27",
+      "24"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCHCA17BC0E57",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-10",
+    "departure_time": "21:00",
+    "arrival_time": "03:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "34",
+      "17",
+      "39",
+      "26",
+      "35",
+      "8",
+      "7",
+      "29"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHED6C291E14",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-10",
+    "departure_time": "22:30",
+    "arrival_time": "04:30",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "11",
+      "17",
+      "22",
+      "18",
+      "42",
+      "4",
+      "29",
+      "25",
+      "28",
+      "39",
+      "1",
+      "45",
+      "6",
+      "44",
+      "23"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHC75B1B1780",
+    "bus_id": "BUSSLP001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-10",
+    "departure_time": "23:00",
+    "arrival_time": "05:00",
+    "fare_multiplier": 0.8,
+    "booked_seats": [
+      "23",
+      "10",
+      "33",
+      "9",
+      "20",
+      "29",
+      "35",
+      "14",
+      "11",
+      "8"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHEBEFE74E03",
+    "bus_id": "BUSLUX001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-10",
+    "departure_time": "18:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 1.5,
+    "booked_seats": [
+      "14",
+      "28",
+      "25",
+      "13",
+      "16"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH48F0573502",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-10",
+    "departure_time": "20:00",
+    "arrival_time": "20:00",
+    "fare_multiplier": 1.2,
+    "booked_seats": [
+      "33",
+      "22",
+      "12",
+      "28",
+      "2",
+      "7"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCHEB10F4CE26",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-10",
+    "departure_time": "19:00",
+    "arrival_time": "04:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "16",
+      "34",
+      "28",
+      "10"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCHFC71AD4665",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-10",
+    "departure_time": "21:00",
+    "arrival_time": "06:00",
+    "fare_multiplier": 0.7,
+    "booked_seats": [
+      "16",
+      "12",
+      "25",
+      "30",
+      "50",
+      "22",
+      "37",
+      "17",
+      "34",
+      "21"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCHF93615F22F",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-10",
+    "departure_time": "08:00",
+    "arrival_time": "17:30",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "33",
+      "40",
+      "18",
+      "13",
+      "41",
+      "35",
+      "34",
+      "21",
+      "44",
+      "49",
+      "1",
+      "46"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH07E3F801EC",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-10",
+    "departure_time": "22:00",
+    "arrival_time": "07:30",
+    "fare_multiplier": 1.1,
+    "booked_seats": [
+      "14",
+      "25",
+      "39",
+      "30",
+      "20",
+      "29",
+      "18",
+      "38",
+      "22",
+      "1",
+      "13",
+      "28",
+      "37"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHB1971CDD78",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-10",
+    "departure_time": "07:00",
+    "arrival_time": "10:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "12",
+      "2",
+      "4",
+      "37",
+      "34",
+      "35",
+      "28",
+      "45",
+      "27"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCH4A7279443F",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-10",
+    "departure_time": "15:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "44",
+      "40",
+      "5",
+      "24",
+      "50"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCH16B651C31A",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-11",
+    "departure_time": "21:00",
+    "arrival_time": "03:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "34",
+      "35",
+      "2",
+      "6",
+      "31",
+      "5",
+      "28",
+      "33"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH5E5473E224",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-11",
+    "departure_time": "22:30",
+    "arrival_time": "04:30",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "20",
+      "38",
+      "11",
+      "8",
+      "24",
+      "27",
+      "10",
+      "3",
+      "40",
+      "36",
+      "1"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHCD924A6E51",
+    "bus_id": "BUSSLP001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-11",
+    "departure_time": "23:00",
+    "arrival_time": "05:00",
+    "fare_multiplier": 0.8,
+    "booked_seats": [
+      "22",
+      "32"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH79D4576649",
+    "bus_id": "BUSLUX001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-11",
+    "departure_time": "18:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 1.5,
+    "booked_seats": [
+      "6",
+      "4"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCHD466C21B4A",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-11",
+    "departure_time": "20:00",
+    "arrival_time": "20:00",
+    "fare_multiplier": 1.2,
+    "booked_seats": [
+      "24",
+      "35",
+      "25",
+      "40",
+      "17",
+      "23",
+      "29",
+      "18"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCHFF77935361",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-11",
+    "departure_time": "19:00",
+    "arrival_time": "04:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "26",
+      "21",
+      "12",
+      "23"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCH505076FB23",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-11",
+    "departure_time": "21:00",
+    "arrival_time": "06:00",
+    "fare_multiplier": 0.7,
+    "booked_seats": [
+      "9",
+      "27",
+      "49",
+      "19",
+      "34",
+      "30",
+      "18",
+      "8",
+      "14"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCHE60D94D9F3",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-11",
+    "departure_time": "08:00",
+    "arrival_time": "17:30",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "32",
+      "48",
+      "34",
+      "33",
+      "13",
+      "45",
+      "21",
+      "41",
+      "31",
+      "27",
+      "2",
+      "11",
+      "16",
+      "3",
+      "39"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHCFA2CF2D73",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-11",
+    "departure_time": "22:00",
+    "arrival_time": "07:30",
+    "fare_multiplier": 1.1,
+    "booked_seats": [
+      "34",
+      "35",
+      "39",
+      "40",
+      "22",
+      "32",
+      "24",
+      "26",
+      "20",
+      "13",
+      "1",
+      "36",
+      "3"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH184969DB4E",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-11",
+    "departure_time": "07:00",
+    "arrival_time": "10:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "44",
+      "38",
+      "6",
+      "7"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCH496F6FDAA3",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-11",
+    "departure_time": "15:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "7",
+      "6",
+      "19",
+      "12",
+      "11"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCHFAFD88EF6A",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-12",
+    "departure_time": "21:00",
+    "arrival_time": "03:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH4C31BE9A8A",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-12",
+    "departure_time": "22:30",
+    "arrival_time": "04:30",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "19",
+      "4",
+      "7",
+      "31",
+      "34",
+      "5",
+      "40",
+      "3",
+      "23",
+      "18",
+      "25",
+      "33",
+      "12",
+      "13"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHC16EF3CDD2",
+    "bus_id": "BUSSLP001",
+    "route_id": "RTECBE001",
+    "journey_date": "2026-04-12",
+    "departure_time": "23:00",
+    "arrival_time": "05:00",
+    "fare_multiplier": 0.8,
+    "booked_seats": [
+      "28",
+      "14",
+      "36",
+      "9",
+      "21",
+      "1",
+      "25"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Vellore",
+      "Krishnagiri"
+    ],
+    "dropping_points": [
+      "Vellore",
+      "Krishnagiri",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCH6A0FAEB7AE",
+    "bus_id": "BUSLUX001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-12",
+    "departure_time": "18:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 1.5,
+    "booked_seats": [
+      "2",
+      "10",
+      "22",
+      "18",
+      "30",
+      "26",
+      "25"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH1684273ECB",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTECMB001",
+    "journey_date": "2026-04-12",
+    "departure_time": "20:00",
+    "arrival_time": "20:00",
+    "fare_multiplier": 1.2,
+    "booked_seats": [
+      "8",
+      "3",
+      "6"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Chennai",
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune"
+    ],
+    "dropping_points": [
+      "Nellore",
+      "Vijayawada",
+      "Hyderabad",
+      "Pune",
+      "Mumbai"
+    ]
+  },
+  {
+    "schedule_id": "SCH028C3B1847",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-12",
+    "departure_time": "19:00",
+    "arrival_time": "04:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "36"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCHC125BCCD06",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTECOK001",
+    "journey_date": "2026-04-12",
+    "departure_time": "21:00",
+    "arrival_time": "06:00",
+    "fare_multiplier": 0.7,
+    "booked_seats": [
+      "4",
+      "7",
+      "2",
+      "48",
+      "46",
+      "28",
+      "23",
+      "35",
+      "24",
+      "50",
+      "41"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Bengaluru",
+      "Mysuru",
+      "Kozhikode"
+    ],
+    "dropping_points": [
+      "Mysuru",
+      "Kozhikode",
+      "Kochi"
+    ]
+  },
+  {
+    "schedule_id": "SCHA5450C2771",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-12",
+    "departure_time": "08:00",
+    "arrival_time": "17:30",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "28",
+      "49",
+      "19",
+      "32"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHA13B86FC0E",
+    "bus_id": "BUSVLV001",
+    "route_id": "RTEHYD001",
+    "journey_date": "2026-04-12",
+    "departure_time": "22:00",
+    "arrival_time": "07:30",
+    "fare_multiplier": 1.1,
+    "booked_seats": [
+      "13",
+      "5",
+      "6",
+      "38",
+      "25",
+      "18"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Hyderabad",
+      "Kurnool",
+      "Anantapur"
+    ],
+    "dropping_points": [
+      "Kurnool",
+      "Anantapur",
+      "Bengaluru"
+    ]
+  },
+  {
+    "schedule_id": "SCHCE7C18382D",
+    "bus_id": "BUSSEM001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-12",
+    "departure_time": "07:00",
+    "arrival_time": "10:00",
+    "fare_multiplier": 1.0,
+    "booked_seats": [
+      "8",
+      "11",
+      "26",
+      "15",
+      "30",
+      "9",
+      "44",
+      "36",
+      "17",
+      "34",
+      "45"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  },
+  {
+    "schedule_id": "SCH80A1D60BF1",
+    "bus_id": "BUSNAC001",
+    "route_id": "RTEMUM001",
+    "journey_date": "2026-04-12",
+    "departure_time": "15:00",
+    "arrival_time": "18:00",
+    "fare_multiplier": 0.9,
+    "booked_seats": [
+      "35",
+      "13",
+      "8",
+      "5",
+      "38",
+      "27",
+      "10",
+      "30"
+    ],
+    "waitlist": [],
+    "status": "Upcoming",
+    "boarding_points": [
+      "Mumbai",
+      "Khopoli"
+    ],
+    "dropping_points": [
+      "Khopoli",
+      "Pune"
+    ]
+  }
+]

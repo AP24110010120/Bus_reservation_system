@@ -1,0 +1,123 @@
+[
+  {
+    "route_id": "RTECBE001",
+    "source": "Chennai",
+    "destination": "Bengaluru",
+    "distance_km": 350,
+    "duration_minutes": 360,
+    "stops": [
+      {
+        "name": "Vellore",
+        "distance_from_origin": 120,
+        "arrival_offset": 90,
+        "departure_offset": 100
+      },
+      {
+        "name": "Krishnagiri",
+        "distance_from_origin": 220,
+        "arrival_offset": 180,
+        "departure_offset": 190
+      }
+    ],
+    "base_fare": 450.0,
+    "is_active": true
+  },
+  {
+    "route_id": "RTECMB001",
+    "source": "Chennai",
+    "destination": "Mumbai",
+    "distance_km": 1338,
+    "duration_minutes": 1320,
+    "stops": [
+      {
+        "name": "Nellore",
+        "distance_from_origin": 175,
+        "arrival_offset": 180,
+        "departure_offset": 195
+      },
+      {
+        "name": "Vijayawada",
+        "distance_from_origin": 435,
+        "arrival_offset": 480,
+        "departure_offset": 500
+      },
+      {
+        "name": "Hyderabad",
+        "distance_from_origin": 750,
+        "arrival_offset": 780,
+        "departure_offset": 810
+      },
+      {
+        "name": "Pune",
+        "distance_from_origin": 1200,
+        "arrival_offset": 1200,
+        "departure_offset": 1215
+      }
+    ],
+    "base_fare": 1200.0,
+    "is_active": true
+  },
+  {
+    "route_id": "RTECOK001",
+    "source": "Bengaluru",
+    "destination": "Kochi",
+    "distance_km": 560,
+    "duration_minutes": 540,
+    "stops": [
+      {
+        "name": "Mysuru",
+        "distance_from_origin": 140,
+        "arrival_offset": 150,
+        "departure_offset": 160
+      },
+      {
+        "name": "Kozhikode",
+        "distance_from_origin": 450,
+        "arrival_offset": 420,
+        "departure_offset": 435
+      }
+    ],
+    "base_fare": 600.0,
+    "is_active": true
+  },
+  {
+    "route_id": "RTEHYD001",
+    "source": "Hyderabad",
+    "destination": "Bengaluru",
+    "distance_km": 575,
+    "duration_minutes": 570,
+    "stops": [
+      {
+        "name": "Kurnool",
+        "distance_from_origin": 200,
+        "arrival_offset": 210,
+        "departure_offset": 220
+      },
+      {
+        "name": "Anantapur",
+        "distance_from_origin": 380,
+        "arrival_offset": 390,
+        "departure_offset": 400
+      }
+    ],
+    "base_fare": 700.0,
+    "is_active": true
+  },
+  {
+    "route_id": "RTEMUM001",
+    "source": "Mumbai",
+    "destination": "Pune",
+    "distance_km": 150,
+    "duration_minutes": 180,
+    "stops": [
+      {
+        "name": "Khopoli",
+        "distance_from_origin": 80,
+        "arrival_offset": 90,
+        "departure_offset": 95
+      }
+    ],
+    "base_fare": 250.0,
+    "is_active": true
+  }
+]

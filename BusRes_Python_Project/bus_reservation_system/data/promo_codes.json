@@ -1,0 +1,42 @@
+[
+  {
+    "code": "WELCOME10",
+    "discount_percent": 10,
+    "max_discount": 100,
+    "min_fare": 0,
+    "valid_until": "2026-07-05",
+    "max_uses": 1000,
+    "used_count": 0,
+    "is_active": true
+  },
+  {
+    "code": "SAVE20",
+    "discount_percent": 20,
+    "max_discount": 200,
+    "min_fare": 500,
+    "valid_until": "2026-07-05",
+    "max_uses": 500,
+    "used_count": 0,
+    "is_active": true
+  },
+  {
+    "code": "FLAT50",
+    "discount_percent": 5,
+    "max_discount": 50,
+    "min_fare": 200,
+    "valid_until": "2026-07-05",
+    "max_uses": 2000,
+    "used_count": 0,
+    "is_active": true
+  },
+  {
+    "code": "LUXURY30",
+    "discount_percent": 30,
+    "max_discount": 500,
+    "min_fare": 1000,
+    "valid_until": "2026-07-05",
+    "max_uses": 100,
+    "used_count": 0,
+    "is_active": true
+  }
+]
